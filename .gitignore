@@ -12,3 +12,6 @@ xcuserdata/
 *.mobileprovision
 *.p12
 *.pem
+
+# Local agent configuration
+.claude/
